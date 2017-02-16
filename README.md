@@ -1,4 +1,6 @@
-# Proposta de novo frontend para o SALIC
+# Pesquisa Rouanet - Um novo sistema de consulta ao SALIC
+
+Este projeto demonstra o uso da [API SALIC](http://hmg.api.salic.cultura.gov.br/doc/#) para consultas ao portal Sistema de Apoio às Leis de Incentivo à Cultura ([SALIC](http://novosalic.cultura.gov.br/cidadao/consultar)).
 
 ## Configuração
 
